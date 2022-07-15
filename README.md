@@ -2,6 +2,10 @@
 
 Organização dos aprendizados durante o Bootcamp.
 
+[Anotações de todo o curso](https://drive.google.com/drive/u/0/folders/133OkIofsXTBJ8-x9CLfhBT-iOM1dY0a9)
+
+
+
 ## Links Úteis
  - [Síntaxe Básica Markdown](https://www.markdownguide.org/basic-syntax)
  - [Portugol Webstudio](https://portugol-webstudio.cubos.io/)

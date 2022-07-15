@@ -1,0 +1,8 @@
+1 Faça uma lista de conteúdos para dia
+2 Eleja as prioridades
+3 Aplicando a técnica 
+3.1 bloco 1 25 minutos de estudo + 5 minutos de pausa
+3.2 bloco 2 25 minutos de estudo + 5 minutos de pausa
+3.3 bloco 3 25 minutos de estudo + 5 minutos de pausa
+3.4 bloco 4 25 minutos de estudo + 20 minutos de pausa
+4 Começe novo bloco com outro tema
