@@ -3,11 +3,11 @@
 Organização dos aprendizados durante o Bootcamp.
 
 ## Links Úteis
-[Síntaxe Básica Markdown](https://www.markdownguide.org/basic-syntax)
-[Portugol Webstudio](https://portugol-webstudio.cubos.io/)
-[Git Download](https://git-scm.com/downloads)
+<p>[Síntaxe Básica Markdown](https://www.markdownguide.org/basic-syntax)</p>
+<p>[Portugol Webstudio](https://portugol-webstudio.cubos.io/)</p>
+<p>[Git Download](https://git-scm.com/downloads)</p>
 
 ### Links para treinamentos e dúvidas fora do bootcamp
-[Stack Overflow](https://stackoverflow.com/)
-[Beecrowd](https://www.beecrowd.com.br/)
+<p>[Stack Overflow](https://stackoverflow.com/)</p>
+<p>[Beecrowd](https://www.beecrowd.com.br/)</p>
 
