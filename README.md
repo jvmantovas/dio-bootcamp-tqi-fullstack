@@ -10,6 +10,7 @@ Organização dos aprendizados durante o Bootcamp.
  - [Síntaxe Básica Markdown](https://www.markdownguide.org/basic-syntax)
  - [Portugol Webstudio](https://portugol-webstudio.cubos.io/)
  - [Git Download](https://git-scm.com/downloads)
+ - [VSCode](https://code.visualstudio.com/docs/?dv=win)
 
 ### Links para treinamentos e dúvidas fora do bootcamp
  - [Stack Overflow](https://stackoverflow.com/)
