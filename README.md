@@ -60,7 +60,7 @@ Este repositório contém os desafios, exercícios e atividades desenvolvidos du
 </details>
 
 <details>
-  <summary>Módulo III - JavaScript</summary>
+  <summary>Módulo III - JavaScript ✔️</summary>
   
   * IDE Instalação e Configuração (Visual Studio Code)
   * Introdução ao JavaScript
