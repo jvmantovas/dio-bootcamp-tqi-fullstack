@@ -8,7 +8,6 @@ Organização dos aprendizados durante o Bootcamp.
 
 ## Links Úteis
  - [Síntaxe Básica Markdown](https://www.markdownguide.org/basic-syntax)
- - [Portugol Webstudio](https://portugol-webstudio.cubos.io/)
  - [Git Download](https://git-scm.com/downloads)
  - [VSCode](https://code.visualstudio.com/docs/?dv=win)
 
@@ -77,7 +76,7 @@ Este repositório contém os desafios, exercícios e atividades desenvolvidos du
 </details>
 
 <details>
-  <summary>Módulo IV - ReactJS</summary>
+  <summary>Módulo IV - ReactJS ✔️</summary>
   
   * Introdução ao ReactJS
   * Introdução aos React Hooks
