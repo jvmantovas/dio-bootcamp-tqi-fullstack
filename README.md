@@ -87,7 +87,7 @@ Este repositório contém os desafios, exercícios e atividades desenvolvidos du
 </details>
 
 <details>
-  <summary>Módulo V - SQL</summary>
+  <summary>Módulo V - SQL✔️</summary>
   
   * MySQL - Trabalhando com as suas primeiras tabelas
   * MySQL - Consultas com join
