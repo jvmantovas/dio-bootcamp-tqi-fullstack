@@ -114,7 +114,7 @@ Este repositório contém os desafios, exercícios e atividades desenvolvidos du
 </details>
 
 <details>
-  <summary>Módulo VII - Spring Framework</summary>
+  <summary>Módulo VII - Spring Framework✔️</summary>
   
   * Conhecendo os principais Protocolos de Comunicação da internet
   * Imersão no Spring Framework com Spring Boot
