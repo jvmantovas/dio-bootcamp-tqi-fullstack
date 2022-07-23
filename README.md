@@ -94,7 +94,7 @@ Este repositório contém os desafios, exercícios e atividades desenvolvidos du
 </details>
 
 <details>
-  <summary>Módulo VI - Java</summary>
+  <summary>Módulo VI - Java✔️</summary>
   
   * Dominando IDEs Java
   * Variáveis, Tipos de Dados, e Operadores Matemáticos em Java
